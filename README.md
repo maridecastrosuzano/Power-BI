@@ -6,4 +6,5 @@ Durante esta formación he adquirido experiencia en la obtención, limpieza, tra
 
 Por lo que, los proyectos contenidos en este repositorio son ejemplos de mi trabajo y de las habilidades que he adquirido a lo largo de los últimos meses.
 
-![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/548f8350-eec6-4b76-b4a7-24c9387c9828)
+Aquí link para ingresar a una carpeta compartida con los enlaces de cada uno de los pryectos:
+  https://drive.google.com/drive/folders/1s_E0qzx5vPyiOdGxNUlZpEPNJYUqojUb
