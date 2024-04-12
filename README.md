@@ -13,3 +13,8 @@ Aquí link para ingresar a una carpeta compartida en Google Drive con cada uno d
 PROYECTO 1
 
 ![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/52ee936f-2585-4fb2-8e5d-4465d8734822)
+
+
+PROYECTO 2
+
+![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/c71f1ec7-b627-4ff0-8083-ae7ffba624b5)
