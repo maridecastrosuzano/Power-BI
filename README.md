@@ -6,7 +6,7 @@ Durante esta formación he adquirido experiencia en la obtención, limpieza, tra
 
 Por lo que, los proyectos contenidos en este repositorio son ejemplos de mi trabajo y de las habilidades que he adquirido a lo largo de los últimos meses.
 
-Aquí link para ingresar a una carpeta compartida con los enlaces de cada uno de los pryectos:
+Aquí link para ingresar a una carpeta compartida en Google Drive con cada uno de los proyectos:
   https://drive.google.com/drive/folders/1s_E0qzx5vPyiOdGxNUlZpEPNJYUqojUb
 
 
