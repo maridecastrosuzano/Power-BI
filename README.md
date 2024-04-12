@@ -8,3 +8,6 @@ Por lo que, los proyectos contenidos en este repositorio son ejemplos de mi trab
 
 Aquí link para ingresar a una carpeta compartida con los enlaces de cada uno de los pryectos:
   https://drive.google.com/drive/folders/1s_E0qzx5vPyiOdGxNUlZpEPNJYUqojUb
+
+
+![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/52ee936f-2585-4fb2-8e5d-4465d8734822)
