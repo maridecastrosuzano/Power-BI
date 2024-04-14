@@ -23,6 +23,6 @@ PROYECTO 2
 PROYECTO 3
 
 ![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/848912f9-4c77-483b-b5ef-3d40dc2a831a)
-![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/c6b669b9-69f8-4f52-9f4a-7282ba8a5248)
+![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/17e982ae-198d-4429-b1a5-b6c11cd100aa)
 
 
