@@ -33,7 +33,7 @@ PROYECTO 4
 
 PROYECTO 5
 
-![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/9d16e5ec-b891-4c73-968c-b50975fac5ad)
+![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/939723db-9fb0-45b5-8e43-94dc3948110c)
 ![image](https://github.com/maridecastrosuzano/Power-BI/assets/166634928/e572cd68-959f-4a50-983f-a8bbea0f826e)
 
 
