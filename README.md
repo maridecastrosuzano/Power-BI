@@ -43,5 +43,10 @@ PROYECTO 6
 ![image](https://github.com/user-attachments/assets/e4cd5851-e2ec-43f3-bb00-a1447512d727)
 
 
+PROYECTO 7
+![image](https://github.com/user-attachments/assets/f108083e-4f3a-48d8-92e2-b4b93a053c34)
+
+
+
 
 
